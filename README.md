@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## I'm Sumit Kumar Pal
+
+### 
+👀 I’m interested in coding and getting introduced to new technical stuffs.
 <!--
 **Sumitpal0572/Sumitpal0572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
