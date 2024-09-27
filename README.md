@@ -3,6 +3,7 @@
 
 #### 👀 I’m interested in coding and getting introduced to new technical stuffs.
 #### 💻 As a budding Web Developer, I enjoy working with HTML, CSS and Javascript to built interactive and visually appealing websites. I also have experience with frameworks like React.js and tools like Git.
+#### 📚 I am a student passionate about Web Development and eager to learn and grow in the field. I am currently focused on expanding my knowledge in various web technologies.
 <!--
 **Sumitpal0572/Sumitpal0572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
